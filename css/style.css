@@ -111,7 +111,7 @@ body {
 
 .hero {
 
-background-image: linear-gradient(0deg, #0F051B 0%, rgba(67, 24, 129, 0.00) 20.54%), url(File:///Users/arun/Desktop/Portfolio/HTML/Sound_Alliance/img/wallpaper.png);
+background-image: linear-gradient(0deg, #0F051B 0%, rgba(67, 24, 129, 0.00) 20.54%), url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/wallpaper.png);
 
 /* background-image: linear-gradient(0deg, #0F051B 0%, rgba(67, 24, 129, 0.00) 15.54%), url(File:///Users/arun/Desktop/Portfolio/HTML/Sound_Alliance/img/wallpaper.png); */ 
 
@@ -653,7 +653,7 @@ display: flex;
 
 .card_four {
 
-  background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/Sound_Alliance/img/pbg3.png); 
+  background-image: url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/pbg3.png); 
   background-position: 50% -60px;
   background-size:cover;
 
@@ -782,7 +782,7 @@ font-size: 26px;
     padding-bottom: 150px;
     padding-left: 1em;
     padding-right: 1em;
-    background-image:  url(File:///Users/arun/Desktop/Portfolio/HTML/Sound_Alliance/img/pbg2.png), linear-gradient(180deg, #0F051B 0%, #160828 50%, #0F051B 100%); 
+    background-image:  url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/pbg2.png), linear-gradient(180deg, #0F051B 0%, #160828 50%, #0F051B 100%); 
     background-position: center center;
     background-repeat: no-repeat;
     background-position: 50% 45px;
@@ -1160,7 +1160,7 @@ margin-top: 150px;
 }
 
 .dowload_container {
-background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/Sound_Alliance/img/phone_wallpaper.png);
+background-image: url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/phone_wallpaper.png);
 width: 1200px;
 display: flex;
 justify-content: space-between;
