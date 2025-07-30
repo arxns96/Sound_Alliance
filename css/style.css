@@ -241,6 +241,17 @@ margin-left: 40px;
 
 }
 
+@media screen and (max-width: 500px) {
+.hero_content h1{
+  font-size: 30px;
+  padding-top: 40px;
+  }
+
+  .hero_content p{
+    font-size: 16px;
+  }
+}
+
 .hero_content_button {
     display: flex;
     justify-content: center;
@@ -340,8 +351,6 @@ margin-left: 40px;
   }
 }
 
-
-
   .hero_img img {
   display: none;
  } 
@@ -355,7 +364,7 @@ margin-left: 40px;
   max-width: 103%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 80px;
+  padding-top: 50px;
 }
 
 }
