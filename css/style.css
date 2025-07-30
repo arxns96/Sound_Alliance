@@ -907,6 +907,7 @@ overflow-x: hidden;
   opacity: 0.7;
   letter-spacing: 1px;      
   line-height: 1.4;
+  padding-right: 30px;
 }
 
 .pricing_card_one h4 {
@@ -1010,6 +1011,7 @@ overflow-x: hidden;
   opacity: 0.7;
   letter-spacing: 1px;      
   line-height: 1.4;
+  padding-right: 30px;
 }
 
 .pricing_card_two h4 {
@@ -1067,6 +1069,7 @@ overflow-x: hidden;
   opacity: 0.7;
   letter-spacing: 1px;      
   line-height: 1.4;
+  padding-right: 30px;
 }
 
 .pricing_card_three h4 {
