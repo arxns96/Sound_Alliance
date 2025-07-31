@@ -666,7 +666,7 @@ font-size: 27px;
    }
 
 .phone_img .phone_mobile{
-  display: block;
+  display: none;
     max-height: 100%;
         max-width: 100%;
 
