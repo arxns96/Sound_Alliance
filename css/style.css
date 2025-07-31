@@ -436,8 +436,12 @@ flex-wrap: wrap;
 padding-top: 50px;
 gap: 70px;
 margin: 0rem 1em 0em 1em;
+}
 
-
+@media only screen and (max-width: 770px) {
+  .section_one_cards {
+    gap: 30px;
+  }
 }
 
 .card_one {
@@ -446,17 +450,6 @@ border: solid 0.5px #281C33;
 border-radius: 10px;
 background: linear-gradient(130deg, rgb(20 3 34 / 0%) 3.17%, rgba(78, 58, 121, 0.25) 48.32%, rgb(20 3 34 / 0%) 94.35%);
 backdrop-filter: blur(4px);
-  /* border: solid 0.5px #6840A0; */
-
-  /*  background: linear-gradient(88.12deg, rgba(20, 3, 34, 0.48) 3.17%, rgba(31, 34, 55, 0.2304) 52.41%, rgba(20, 3, 34, 0.48) 94.35%); */
-
-/* background: radial-gradient(103.23% 102.3% at 50% 36.46%, rgba(167, 93, 185, 0.228) 0%, rgba(99, 102, 241, 2.9%) 54%)  #0F051B; 
-background: radial-gradient(103.23% 102.3% at 50% 36.46%, rgba(167, 93, 185, 0.228) 0%, rgba(99, 102, 241, 2.9%) 54%)  rgba(255, 255, 255, 0.03); */
-
-
-
-
-
 }
 
 .card_one img {
@@ -469,7 +462,6 @@ background: radial-gradient(103.23% 102.3% at 50% 36.46%, rgba(167, 93, 185, 0.2
 
 
 .card_one h1 {
-
     color: #F3ECFE;
     font-size: 18px;
     margin-left: 24px;
@@ -477,8 +469,7 @@ background: radial-gradient(103.23% 102.3% at 50% 36.46%, rgba(167, 93, 185, 0.2
     font-weight: 300;
     margin-top: 0px;
     letter-spacing: 0.9px;
-
-}
+  }
 
 .card_one p {
 color: #F3ECFE;
@@ -500,13 +491,6 @@ border: solid 0.5px #281C33;
 border-radius: 10px;
 background: linear-gradient(130deg, rgb(20 3 34 / 0%) 3.17%, rgba(78, 58, 121, 0.25) 48.32%, rgb(20 3 34 / 0%) 94.35%);
 backdrop-filter: blur(4px);
-
-/*  border: solid 0.5px #6840A0; */
-
-/*  background: linear-gradient(88.12deg, rgba(20, 3, 34, 0.48) 3.17%, rgba(31, 34, 55, 0.2304) 52.41%, rgba(20, 3, 34, 0.48) 94.35%); */
-
-/* background: radial-gradient(123.72% 94.84% at 10.65% 53.61%, rgba(167, 93, 185, 0.228) 0%, rgba(99, 102, 241, 2.9%) 54%)  #0F051B; 
-background: radial-gradient(123.72% 94.84% at 10.65% 53.61%, rgba(167, 93, 185, 0.228) 0%, rgba(99, 102, 241, 2.9%) 54%)  rgba(255, 255, 255, 0.03); */
 }
 
 
@@ -552,18 +536,6 @@ border: solid 0.5px #281C33;
 border-radius: 10px;
 background: linear-gradient(130deg, rgb(20 3 34 / 0%) 3.17%, rgba(78, 58, 121, 0.25) 48.32%, rgb(20 3 34 / 0%) 94.35%);
 backdrop-filter: blur(4px);
-
-
-
-/* 
-
-background: linear-gradient(88.12deg, rgba(20, 3, 34, 0.48) 3.17%, rgba(31, 34, 55, 0.2304) 52.41%, rgba(20, 3, 34, 0.48) 94.35%);
-
-background: radial-gradient(109.22% 89.95% at 82.95% 82.17%, rgba(167, 93, 185, 0.3) -20%, rgba(99, 102, 241, 2.9%) 54%) #0F051B; 
-
-background: radial-gradient(109.22% 89.95% at 82.95% 82.17%, rgba(167, 93, 185, 0.3) -20%, rgba(99, 102, 241, 2.9%) 54%) rgba(255, 255, 255, 0.03); */
-
-
 }
 
 .card_three img {
