@@ -570,7 +570,6 @@ color: #F3ECFE;
 display: flex;
 justify-content: center;
 padding-top: 80px;
-
 }
 
 .card_four {
@@ -579,11 +578,8 @@ padding-top: 80px;
     background-repeat: no-repeat;
     background-position: 50% -93px;
     background-size:cover;
-  background-image: url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/pbg3.png);  
-
-
+    background-image: url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/pb4.png);
 }
-
 
 .phone_card_img .phone_desktop {
   display: flex;
@@ -640,17 +636,14 @@ font-size: 27px;
   justify-content: center;
    /* max-width: 77%; */
   max-width: 40%;
-
 }
 
 @media only screen and (max-width : 620px) {
 
 .card_four {
-
   background-image: url(https://raw.githubusercontent.com/arxns96/Sound_Alliance/refs/heads/main/img/pbg3.png); 
   background-position: 50% -60px;
   background-size:cover;
-
 }
 
    .phone_img .phone_desktop{
@@ -663,7 +656,6 @@ font-size: 27px;
   display: none;
     max-height: 100%;
         max-width: 100%;
-
       }
 }
 
@@ -672,7 +664,6 @@ font-size: 27px;
   justify-content: center;
   padding-top: 100px;
   margin: 0rem 1em 0em 1em;
-
 }
 
 
@@ -714,9 +705,7 @@ font-size: 26px;
   margin:0;
   padding-top: 3px;
   letter-spacing: 0.5px;
-
 }
-
 
 .stat_p_btn {
   display: flex;
@@ -725,7 +714,6 @@ font-size: 26px;
   flex-direction: column;
   align-items: center;
   margin: 0rem 1em 0em 1em;
-
 }
 
 .stat_p_btn p {
@@ -739,8 +727,6 @@ font-size: 26px;
     letter-spacing: 1px;
     line-height: 1.5;
     font-weight: 200;
-
-
 }
 
 .card_four_btn {
@@ -761,7 +747,6 @@ font-size: 26px;
   display: inline-block;
   cursor: pointer;
   border-radius: 10px;
-
 }
 
 .card_four_btn:hover {
@@ -787,10 +772,8 @@ font-size: 26px;
 .pricing_title {
   padding-top: 80px;
   padding-bottom: 110px;
+  }
 }
-}
-
-
 
 .pricing_title h1 {
 display: flex;
