@@ -587,11 +587,11 @@ padding-top: 80px;
 
 
 .phone_card_img .phone_desktop {
-  display: none;
+  display: flex;
 }
 
 .phone_card_img h1 {
-display: flex;
+    display: flex;
     color: #F3ECFE;
     justify-content: center;
     font-size: 40px;
@@ -639,7 +639,8 @@ font-size: 27px;
 .phone_img img {
   display: flex;
   justify-content: center;
-  max-width: 77%;
+   /* max-width: 77%; */
+  max-width: 40%;
 
 }
 
